@@ -103,3 +103,10 @@ shortcut
 [core]
     editor = nano
 ```
+
+
+# Brew
+If you install brew you can deactivate anlaytics send to google with the following commands:
+`brew analytics off`
+
+*source: https://docs.brew.sh/Analytics*
