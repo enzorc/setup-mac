@@ -110,3 +110,5 @@ If you install brew you can deactivate anlaytics send to google with the followi
 `brew analytics off`
 
 *source: https://docs.brew.sh/Analytics*
+
+
